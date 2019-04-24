@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<heros>
+	<hero id="1">
+		<lastname>Man</lastname>
+		<firstname>Bat</firstname>
+		<quote>"It's not who I am underneath, but what I do that difines me."</quote>
+	</hero>
+	<hero id="2">
+		<lastname></lastname>
+		<firstname>Thor</firstname>
+		<quote>"The answers you seek shall be yours, once I claim what's mine."</quote>
+	</hero>
+	<hero id="3">
+		<lastname>Ray Bill</lastname>
+		<firstname>Beta</firstname>
+		<quote>"If there is nothing but what we make in this world, brothers...let us make it good."</quote>
+	</hero>
+	<hero id="4">
+		<lastname>Hodge</lastname>
+		<firstname>Aldis</firstname>
+		<quote>"What is a superhero? They're supposed to represent hope, opportunity, and strength for everybody."</quote>
+	</hero>
+	<hero id="5">
+		<lastname>Octopus</lastname>
+		<firstname>Dr.</firstname>
+		<quote>"Intelligence is a privilege, and it needs to be used for the greater good of people."</quote>
+	</hero>
+	<hero id="6">
+		<lastname>Man</lastname>
+		<firstname>Iron</firstname>
+		<quote>"Heroes are made by the path they choose, not the powers they are graced with."</quote>
+	</hero>
+	<hero id="7">
+		<lastname>Arrow</lastname>
+		<firstname>Green</firstname>
+		<quote>"This. This is what I am. This is who I am come hell or high water. If I deny it, I deny everything I've ever done. Everything I've ever fought for."</quote>
+	</hero>
+	<hero id="8">
+		<lastname>Affleck</lastname>
+		<firstname>Ben</firstname>
+		<quote>"A hero can be anyone even a man doing something as simple and reassuring as putting a coat around a little boy's shoulder to let him know thit the world hadn't ended."</quote>
+	</hero>
+	<hero id="9">
+		<lastname>Gordon</lastname>
+		<firstname>James</firstname>
+		<quote>"You're going to make a difference. A lot of times it won't be huge, it won't be visible even. But it will matter just the same."</quote>
+	</hero>
+	<hero id="10">
+		<lastname></lastname>
+		<firstname>Spiderman</firstname>
+		<quote>"With great power, comes great responsibility."</quote>
+	</hero>
+	<hero id="11">
+		<lastname>Man</lastname>
+		<firstname>Iron</firstname>
+		<quote>"I had my eyes opened. I came to realize that I had more to offer this world than just making things that blow up."</quote>
+	</hero>
+	<hero id="12">
+		<lastname>Liu</lastname>
+		<firstname>Lucy</firstname>
+		<quote>"I think you just jave to appreciate who you are and hopefully they can see what a superhero is about."</quote>
+	</hero>
+	<hero id="13">
+		<lastname>Holland</lastname>
+		<firstname>Tom</firstname>
+		<quote>"One of the reasons why Spider-Man is my favorite superhero is because we both undergo big changes in our lives."</quote>
+	</hero>
+	<hero id="14">
+		<lastname>Parker</lastname>
+		<firstname>Peter</firstname>
+		<quote>"No man can win every battle, but no man should fall without struggle."</quote>
+	</hero>
+	<hero id="15">
+		<lastname>Manhunter</lastname>
+		<firstname>Martian</firstname>
+		<quote>"The future is worth it. All the pain. All the tears. The future is worth the fight."</quote>
+	</hero>
+	<hero id="16">
+		<lastname>Marvel</lastname>
+		<firstname>Ms.</firstname>
+		<quote>"The Univers is so big, it has no center. We are the center."</quote>
+	</hero>
+	<hero id="17">
+		<lastname>Man</lastname>
+		<firstname>Iron</firstname>
+		<quote>"Listen, smile, agree, and then do whatever you were ganna do anyway."</quote>
+	</hero>
+	<hero id="18">
+		<lastname>Pivoult</lastname>
+		<firstname>Jodi</firstname>
+		<quote>"Superheroes were born in the minds of people desperate to be rescued."</quote>
+	</hero>
+	<hero id="19">
+		<lastname>Moore</lastname>
+		<firstname>Christopher</firstname>
+		<quote>"...turning your ankle hurts like hell, even if you're a superhero."</quote>
+	</hero>
+	<hero id="20">
+		<lastname>Hippolyta</lastname>
+		<firstname>Queen</firstname>
+		<quote>"In a world of ordinary mortals, you are a wonder woman."</quote>
+	</hero>
+	<hero id="21">
+		<lastname></lastname>
+		<firstname>Superman</firstname>
+		<quote>"I think a hero is an ordinary individual who finds strength to persevere and endure in spite of overwhelming obstacles."</quote>
+	</hero>
+	<hero id="22">
+		<lastname>Hornet</lastname>
+		<firstname>Green</firstname>
+		<quote>"It's not dying that you need to be afraid of, it's never having lived in the first place."</quote>
+	</hero>
+	<hero id="23">
+		<lastname></lastname>
+		<firstname>Superman</firstname>
+		<quote>"You are much stronger than you think you are. Trust me"</quote>
+	</hero>
+	<hero id="24">
+		<lastname></lastname>
+		<firstname>Batman</firstname>
+		<quote>"Why do we fall? So we can learn to pick ourselves back up."</quote>
+	</hero>
+	<hero id="25">
+		<lastname></lastname>
+		<firstname>Batgirl</firstname>
+		<quote>"Everything doesn't have to be about fear. There's room in out line of work for hope, too."</quote>
+	</hero>
+</heros>
